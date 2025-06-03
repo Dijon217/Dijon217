@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Dijon Charles
+# Hi, I'm Dijon Charles 👋 
 
-**Software Engineer | REST API Enthusiast | Problem Solver | Runner (in code and on the track) 🏃‍♂️**
+**Software Engineer | CS Student @ FIU 🎓 | REST API Enthusiast | Problem Solver | Runner (in code and on the track) 🏃‍♂️**
 
 ---
 
