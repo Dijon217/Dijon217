@@ -9,8 +9,6 @@
 
 I'm a passionate software engineer with a love for building scalable, well-documented **RESTful APIs** and exploring the endless rabbit holes of web development. When I’m not writing or testing code, I’m probably out running — either training on the track or chasing down solutions to the next big problem.😄
 
-My background blends **10+ years in finance and operations** with modern full-stack software development. I enjoy automating processes, crafting backend systems, and bringing efficiency to data-driven workflows.
-
 Currently completing a full-stack eCommerce application 👨🏾‍💻......
 
 
