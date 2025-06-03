@@ -1,11 +1,11 @@
 
-# Hi, I'm Dijon Charles 👋 
+# Hi, I'm Dijon Charles <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving hand" width="40"/>
 
 **Software Engineer | CS Student @ FIU 🎓 | REST API Enthusiast | Problem Solver | Runner (in code and on the track) 🏃‍♂️**
 
 ---
 
-## 💡 About Me
+## About Me 💡 
 
 I'm a passionate software engineer with a love for building scalable, well-documented **RESTful APIs** and exploring the endless rabbit holes of web development. When I’m not writing or testing code, I’m probably out running — either training on the track or chasing down solutions to the next big problem.
 
@@ -13,7 +13,7 @@ My background blends **10+ years in finance and operations** with modern full-st
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack 🔧 
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
@@ -28,7 +28,7 @@ My background blends **10+ years in finance and operations** with modern full-st
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect 📬 
 
 - 📧 [dijoncharles@outlook.com](mailto:dijoncharles@outlook.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/dijoncharlesv)  
