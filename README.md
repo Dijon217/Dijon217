@@ -1,5 +1,5 @@
 
-# Hi, I'm Dijon Charles <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving hand" width="40"/>
+# Dijon Charles <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving hand" width="40"/>
 
 **Software Engineer | CS Student @ FIU 🎓 | REST API Enthusiast | Problem Solver | Runner (in code and on the track) 🏃‍♂️**
 
