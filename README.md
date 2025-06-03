@@ -1,16 +1,15 @@
-## Hi there 👋
 
 # 👋 Hi, I'm Dijon Charles
 
-🚀 Aspiring Software Engineer | 🎓 CS Student @ FIU | 🛠️ API & Automation Enthusiast
+**Software Engineer | REST API Enthusiast | Problem Solver | Runner (in code and on the track) 🏃‍♂️**
 
 ---
 
-## 🧠 About Me
+## 💡 About Me
 
-I'm a software engineer passionate about building tools that solve real-world problems — especially at the intersection of **technology and finance**. With over a decade of professional experience and a strong foundation in **full-stack development**, I specialize in creating **automation systems**, **data-driven solutions**, and **scalable web applications**.
+I'm a passionate software engineer with a love for building scalable, well-documented **RESTful APIs** and exploring the endless rabbit holes of web development. When I’m not writing or testing code, I’m probably out running — either training on the track or chasing down solutions to the next big problem.
 
-Currently pursuing a **Computer Science degree** and Software Engineering certifications, I’m focused on applying my skills to drive efficiency, build great products, and collaborate with teams in agile environments.
+My background blends **10+ years in finance and operations** with modern full-stack software development. I enjoy automating processes, crafting backend systems, and bringing efficiency to data-driven workflows. 😄
 
 ---
 
