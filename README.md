@@ -11,7 +11,6 @@ I'm a passionate software engineer with a love for building scalable, well-docum
 
 My background blends **10+ years in finance and operations** with modern full-stack software development. I enjoy automating processes, crafting backend systems, and bringing efficiency to data-driven workflows. 😄
 
----
 
 ## Tech Stack 🔧 
 
@@ -26,19 +25,11 @@ My background blends **10+ years in finance and operations** with modern full-st
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white)
 
----
-
 ## Let's Connect 📬 
-
-- 📧 [dijoncharles@outlook.com](mailto:dijoncharles@outlook.com)  
+- 📧 [dijoncharles@outlook.com](mailto:dijoncharles@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dijoncharlesv)  
-- 💻 [GitHub](https://github.com/Dijon217)  
----
 
-> "Code is more than syntax — it’s a tool for building better systems, smarter workflows, and impactful experiences."
-
-
-
+## Top Repository 💽 ⬇️
 <!--
 **Dijon217/Dijon217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
