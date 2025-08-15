@@ -27,6 +27,6 @@ Currently completing a full-stack eCommerce application 👨🏾‍💻......
 
 ## Let's Connect 📬 
 - 📧 [dijoncharles@outlook.com](mailto:dijoncharles@outlook.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dijoncharlesv)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dijon-charles-4a040580/)  
 
 ## Top Repository 💽 ⬇️
